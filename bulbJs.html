@@ -1,0 +1,41 @@
+<html>
+<head>
+<script>
+function myFunction(){
+document.getElementById("demo3").style.fontSize=35;
+}
+</script>
+</head>
+<body>
+<h2>Changing the html content</h2>
+<p id="demo3">I am learning JavaScript</p>
+<button type="button" onclick="myFunction()">Click here</button><br>
+<h1>Javascript Example</h1>
+<p>Bulb on and off</p>
+
+<button onclick="document.getElementById('myImage').src='light-bulb.gif'">Turn on the light</button>
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button><br><br>
+<div>
+<p>Change Content</p>
+<p id="demo">JavaScript can change html content</p>
+<button onclick="document.getElementById('demo').innerHTML='HTML Content has been changed'">Click here</button><br><br>
+<p id="demo1">JS can change style of an html content</p>
+<button onclick="document.getElementById('demo1').style.fontSize='35'">press here</button><br><br>
+<p id="demo2">JS can change style of an html content</p>
+<button onclick="document.getElementById('demo2').style.display='none'">click!!!</button><br><br>
+<script>
+document.getElementById("demo").innerHTML="hello World!!!";
+document.write(5+6);
+window.alert(10+20);
+alert("the javaScript code is in another file");
+console.log("This code is written using console.log");
+</script><br>
+</div>
+<button onclick="window.print()">print this page</button>
+</body>
+</html>
+
+
+<!-- Need to download the bulbon and bulboff images to run the project-->
+
