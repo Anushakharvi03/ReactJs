@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anushakharvi03/ReactJs.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Anushakharvi03/ReactJs.git/static/js/main.0d645359.js",
+    "static/js/787.719ec76d.chunk.js": "/Anushakharvi03/ReactJs.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Anushakharvi03/ReactJs.git/index.html",
+    "main.e6c13ad2.css.map": "/Anushakharvi03/ReactJs.git/static/css/main.e6c13ad2.css.map",
+    "main.0d645359.js.map": "/Anushakharvi03/ReactJs.git/static/js/main.0d645359.js.map",
+    "787.719ec76d.chunk.js.map": "/Anushakharvi03/ReactJs.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0d645359.js"
+  ]
+}
